@@ -1,0 +1,5 @@
+OpenEmbedded/Yocto BSP layer for Rockpi S Board
+================================================================
+
+This layer provides support for Rockpi S Board board for
+use with Yocto and OpenEmbedded.
